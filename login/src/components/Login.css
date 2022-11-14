@@ -1,0 +1,39 @@
+.Page{
+    background-image: url("./Dot.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.px-6{
+    text-align: center;
+    width: 70%;
+    margin: 30px, 25px;
+    margin-bottom: 70px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color:rgb(77, 25, 136);
+    color: rgb(19, 180, 65);
+  } 
+.px-6:hover{
+    background-color: brown;
+    transition: 0.5s;
+}
+.my-3{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 70px;
+    padding: 5px;
+    border-radius: 100px;
+    background-color:cyan;
+    color: rgb(3, 116, 12);
+}
+.my-4{
+    width: 100%;
+    margin-bottom: 70px;
+    padding: 20px;
+    border-radius: 100px;
+    background-color:yellow;
+    color: rgb(4, 1, 10);
+}
+.py{
+    padding-top: 1rem!important;
+}
